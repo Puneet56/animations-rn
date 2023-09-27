@@ -6,6 +6,12 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "android": {
+      "package": "com.anonymous.animations"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.animations"
+    }
   }
 }
